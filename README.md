@@ -15,10 +15,21 @@ Experience the project in action:
 
 <div align="center">
 
-[![🚀 View Live Demo](https://img.shields.io/badge/View-Live%20Demo-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://a88d20f4-efea-46f0-8e4e-0797a587a7b0-00-25hhqqdjbw0bg.spock.repl.co/)
+[![🚀 View Live Demo](https://img.shields.io/badge/View-Live%20Demo-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://019d305f-3972-73d0-aac1-f9b57550b19c.arena.site/)
 
 </div>
 
+---
+
+### 🎥 Demo Preview
+
+- 🔥 Fully animated Nike-style UI
+- 🤖 AI chatbot interaction
+- 🎨 Futuristic glassmorphism design
+- 🛒 Smart shopping experience
+- ⚡ Smooth animations & transitions
+
+> 💡 Best experienced on desktop for full 3D & animation effects
 ---
 
 ### 🎥 Demo Preview
