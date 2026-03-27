@@ -9,6 +9,28 @@
 
 **NIKE AI STUDIO** is a cutting-edge, AI-powered eCommerce platform that pushes the boundaries of modern web development. This hackathon-winning application combines stunning futuristic design with intelligent features to create an immersive shopping experience like no other.
 
+## 🌐 Live Demo
+
+Experience the project in action:
+
+<div align="center">
+
+[![🚀 View Live Demo](https://img.shields.io/badge/View-Live%20Demo-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://a88d20f4-efea-46f0-8e4e-0797a587a7b0-00-25hhqqdjbw0bg.spock.repl.co/)
+
+</div>
+
+---
+
+### 🎥 Demo Preview
+
+- 🔥 Fully animated Nike-style UI
+- 🤖 AI chatbot interaction
+- 🎨 Futuristic glassmorphism design
+- 🛒 Smart shopping experience
+- ⚡ Smooth animations & transitions
+
+> 💡 Best experienced on desktop for full 3D & animation effects
+
 ### ✨ Key Highlights
 
 - 🤖 **AI Website Generator** - Generate custom storefronts with natural language prompts
